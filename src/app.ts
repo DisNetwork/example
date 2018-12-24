@@ -5,7 +5,7 @@ import { StartEvent } from './event/start';
     services: [],
     events: [
         PreStartEvent,
-        StartEvent
+        StartEvent,
     ]
 })
 export class App {
