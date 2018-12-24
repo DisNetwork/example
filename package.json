@@ -1,0 +1,23 @@
+{
+  "name": "example",
+  "version": "0.0.0",
+  "description": "An example of using the magic of DisNetwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisNetwork/example.git"
+  },
+  "keywords": [
+    "DisNetwork",
+    "Core"
+  ],
+  "author": "DisNetwork",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DisNetwork/example/issues"
+  },
+  "homepage": "https://github.com/DisNetwork/example#readme"
+}
