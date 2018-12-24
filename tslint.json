@@ -7,7 +7,7 @@
     "rules": {
         "quotemark": false,
         "ordered-imports": false,
-        "trailing-comma": false,
+        "trailing-comma": false
     },
     "rulesDirectory": []
 }
