@@ -1,9 +1,10 @@
 import { PingMessageEvent } from './ping/message';
+import { service, DisService } from '@disnetwork/core';
 
-@Service({
+@service({
     events: [
         PingMessageEvent,
     ]
 })
-export class PingService {
-}
+
+export class PingService extends DisService {}
