@@ -13,5 +13,5 @@ import { StartEvent } from './event/start';
 })
 
 export class SampleApp {
-    
+
 }
