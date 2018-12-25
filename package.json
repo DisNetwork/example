@@ -1,6 +1,6 @@
 {
     "name": "@disnetwork/example",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "An example of using the magic of DisNetwork",
     "main": "index.js",
     "scripts": {
